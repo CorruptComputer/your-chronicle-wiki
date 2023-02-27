@@ -1,0 +1,10 @@
+#  menu items
+[[main]]
+  name = "Areas"
+  weight = 2
+  url = "/areas/"
+
+[[main]]
+  name = "Resources"
+  weight = 3
+  url = "/resources/"
