@@ -2,4 +2,4 @@ module your-chronicle.idle.wiki
 
 go 1.15
 
-require github.com/onweru/compose v0.0.0-20230228151044-bf9588061a3f // indirect
+require github.com/onweru/compose v0.0.0-20230228154211-8ae26d6bdbe7 // indirect
