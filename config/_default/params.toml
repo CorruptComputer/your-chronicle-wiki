@@ -26,6 +26,7 @@ otherSearchableFields = ["Tags", "Categories", "CustomField"] # As they appear i
 # search
 [search]
 on = true
+global = true
 
 # Site logo
 [search.algolia]

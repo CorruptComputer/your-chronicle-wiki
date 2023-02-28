@@ -1,13 +1,13 @@
-+++
-title = "Eat Anchovy Sandwich"
-tags = [
+---
+title: "Eat Anchovy Sandwich"
+tags: [
   "Common Action"
 ]
-categories = [
+categories: [
   "Instant Actions"
 ]
-weight = 1
-+++
+weight: 1
+---
 
 ## Cost
 Anchovy Sandwich -1.0

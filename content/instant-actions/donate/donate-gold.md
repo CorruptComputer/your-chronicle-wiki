@@ -1,13 +1,13 @@
-+++
-title = "Donate Gold"
-tags = [
+---
+title: "Donate Gold"
+tags: [
   "Donate"
 ]
-categories = [
+categories: [
   "Instant Actions"
 ]
-weight = 1
-+++
+weight: 1
+---
 
 ## Cost
 Gold -10.0

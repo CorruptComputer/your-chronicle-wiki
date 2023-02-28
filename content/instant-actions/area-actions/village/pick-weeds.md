@@ -1,14 +1,14 @@
-+++
-title = "Pick Weeds"
-tags = [
+---
+title: "Pick Weeds"
+tags: [
   "Area Action",
   "Village"
 ]
-categories = [
+categories: [
   "Instant Actions"
 ]
-weight = 1
-+++
+weight: 1
+---
 
 Can only be done in the [Village](/areas/village/).
 

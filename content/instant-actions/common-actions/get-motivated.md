@@ -1,13 +1,13 @@
-+++
-title = "Get Motivated!"
-tags = [
+---
+title: "Get Motivated!"
+tags: [
   "Common Action"
 ]
-categories = [
+categories: [
   "Instant Actions"
 ]
-weight = 1
-+++
+weight: 1
+---
 
 ## Cost
 Action -1.0

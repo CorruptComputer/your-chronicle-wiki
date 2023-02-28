@@ -1,13 +1,13 @@
-+++
-title = "Donate Wooden Statue"
-tags = [
+---
+title: "Donate Wooden Statue"
+tags: [
   "Donate"
 ]
-categories = [
+categories: [
   "Instant Actions"
 ]
-weight = 1
-+++
+weight: 1
+---
 
 ## Cost
 Wooden Statue -1.0

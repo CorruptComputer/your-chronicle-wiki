@@ -1,13 +1,13 @@
-+++
-title = "Donate Manure"
-tags = [
+---
+title: "Donate Manure"
+tags: [
   "Donate"
 ]
-categories = [
+categories: [
   "Instant Actions"
 ]
-weight = 1
-+++
+weight: 1
+---
 
 ## Cost
 Manure -1.0

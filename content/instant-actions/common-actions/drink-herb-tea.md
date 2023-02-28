@@ -1,13 +1,13 @@
-+++
-title = "Drink Herb Tea"
-tags = [
+---
+title: "Drink Herb Tea"
+tags: [
   "Common Action"
 ]
-categories = [
+categories: [
   "Instant Actions"
 ]
-weight = 1
-+++
+weight: 1
+---
 
 ## Cost
 Herb -1.0
